@@ -31,6 +31,7 @@ body {
 }
 #pInfo {
     display: flex;
+    width: 475px;
     flex-direction: column;
     padding: 5% 15% 0 15%;
     align-items: center;
